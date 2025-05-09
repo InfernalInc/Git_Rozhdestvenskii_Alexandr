@@ -10,3 +10,4 @@ freedom text
 >>>>>>> conflict
 >>>>>>> main
 Test run to commit
+1

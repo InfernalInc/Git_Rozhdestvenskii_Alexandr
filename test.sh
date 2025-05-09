@@ -11,3 +11,4 @@ freedom text
 >>>>>>> main
 Test run to commit
 1
+2
